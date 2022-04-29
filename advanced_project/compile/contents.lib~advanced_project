@@ -1,0 +1,15 @@
+67
+~E 1 "../src/advanced_project.vhd" 8 ALU_32bit
+~A 1 "../src/advanced_project.vhd" 15 Behav
+~E 1 "../src/advanced_project.vhd" 215 enable
+~A 1 "../src/advanced_project.vhd" 224 en
+~E 1 "../src/advanced_project.vhd" 159 memory
+~A 1 "../src/advanced_project.vhd" 170 ram
+~E 1 "../src/advanced_project.vhd" 196 register_32bit
+~A 1 "../src/advanced_project.vhd" 204 behaviour
+~E 1 "../src/advanced_project.vhd" 251 system
+~A 1 "../src/advanced_project.vhd" 255 sys
+~E 1 "../src/advanced_project.vhd" 81 testbench
+~A 1 "../src/advanced_project.vhd" 84 test
+~E 1 "../src/advanced_project.vhd" 273 testbenchh
+~A 1 "../src/advanced_project.vhd" 276 test

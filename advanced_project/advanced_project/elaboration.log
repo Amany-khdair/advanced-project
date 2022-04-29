@@ -1,0 +1,41 @@
+Active-HDL 11.1.262.7351 2021-08-28 14:53:13
+
+Elaboration top modules:
+Architecture                  test(testbenchh)
+
+
+--------------------------------------------------------------------------------------------------------
+Entity         | Architecture | Library          | Info | Compiler Version        | Compilation Options
+--------------------------------------------------------------------------------------------------------
+testbenchh     | test         | advanced_project |      | 11.1.262.7351 (Windows) | -O3
+system         | sys          | advanced_project |      | 11.1.262.7351 (Windows) | -O3
+ALU_32bit      | Behav        | advanced_project |      | 11.1.262.7351 (Windows) | -O3
+register_32bit | behaviour    | advanced_project |      | 11.1.262.7351 (Windows) | -O3
+memory         | ram          | advanced_project |      | 11.1.262.7351 (Windows) | -O3
+enable         | en           | advanced_project |      | 11.1.262.7351 (Windows) | -O3
+--------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+VHDL Package                  | Library          | Info | Compiler Version        | Compilation Options
+--------------------------------------------------------------------------------------------------------
+standard                      | std              |      |                         | <unavailable>
+TEXTIO                        | std              |      |                         | <unavailable>
+std_logic_1164                | ieee             |      |                         | <unavailable>
+std_logic_arith               | ieee             |      |                         | <unavailable>
+STD_LOGIC_UNSIGNED            | ieee             |      |                         | <unavailable>
+NUMERIC_STD                   | ieee             |      |                         | <unavailable>
+--------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+Library                       | Comment
+--------------------------------------------------------------------------------------------------------
+advanced_project              | None
+ieee                          | Standard IEEE packages library
+std                           | Standard VHDL library
+--------------------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim -O5 +access +r +m+testbenchh testbenchh test
+
+
+The performance of simulation is reduced. Version Student Edition

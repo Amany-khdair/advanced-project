@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<document type="stimulators" version="1">
+		<set name="ASDB Stimulators" active="1">
+			<stimulator>
+				<signal_path value="/testbenchh/clk"/>
+				<rawdescription value="CLK:FRM:Override:30.000000;2;1;0;50;1:Clock:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/testbenchh/machine_instruction"/>
+				<rawdescription value="VAL:FRM:Override:000000100000100001000001100000000000:&lt;= 000000100000100001000001100000000000:1:"/>
+			</stimulator>
+		</set>
+	</document>
+</XML>
